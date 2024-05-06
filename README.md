@@ -1,4 +1,4 @@
-# Electrical Safety Talk For Factory Electricians and Controls Technicians   
+# Electrical Safety Talk For Factory Electricians and Control Technicians   
 This was the conversation I had with all new electricians that I supervised regardless of their previous experience.
 
 
@@ -203,7 +203,7 @@ ensure your safety.
     -   This allows transformer and motor windings to dissipate voltage
         spikes caused from Electromotive Pulses (radio waves) which
         result from lightning strikes in the area.
-    -   Dissipating these voltage spikes protect the insulation around
+    -   Dissipating these voltage spikes protects the insulation around
         the wires in the transformer and motor windings.
 
 -   What is the difference between an Earth Ground and an Equipment Ground?
@@ -291,7 +291,7 @@ ensure your safety.
         Equipment Grounded machine with the other hand then current
         would pass through your heart and you would likely die.
     -   If you have bare feet with one foot near the grounding rod and another foot further away from the grounding rod then your feet would be at different voltages and current would flow through your body and you could die.
-    -   If you were to touch the hot machine while standing on the ground with bare feet then electical current would pass through your heart as it travels from hand to foot and you would likely die.
+    -   If you were to touch the hot machine while standing on the ground with bare feet then electrical current would pass through your heart as it travels from hand to foot and you would likely die.
 
 -   What would happen if you touched a 120 volt wire to a metal chassis
     which is Equipment Grounded?
@@ -385,7 +385,7 @@ ensure your safety.
         by nearby lightning.
 
 -   What would happen if you accidentally connected the hot 120 volt lead from shore power to the common bus bar in a fiberglass boat and connected the common wire from shore power to the 120 volt bus bar in the boat?
-    -   There is great danger but which is not immediately obvious.
+    -   There is great danger but it is not immediately obvious.
     -   Since the common bus bar in the boat is connected to the boat's equipment ground, and since all metal parts of the boat also bonded to the equipment ground, then all the metal parts of the boat would become hot at 120 volts.
     -   But since all the metal parts are at the same 120 volts and since the fiberglass hull does not conduct electricity there is no where for current to flow
     -   So someone standing in the boat could touch the metal items and also become hot at 120 volts but would not suffer a shock because no current can flow when everything is at the same 120 volts.
@@ -407,7 +407,7 @@ ensure your safety.
     -   When an Arc Fault occurs, there’s a massive electrical explosion.
     -   Both Arc Flash and Arc Blast are separate byproducts of that electrical explosion.
     -   The Arc Flash is the light and heat from the explosion
-        -   Arc flash can ignite the clothing and burn the skin of anyone within a few feet.
+        -   Arc flash can ignite clothing and burn the skin of anyone within a few feet.
         -   Arc Flash can also melt metal, cause lung and eyesight damage and even lead to hospitalization or death
     -   The arc blast is a pressure wave that follows.
         -   These can be strong enough to throw a fully grown technician to the ground or cause additional equipment damage.
@@ -419,16 +419,17 @@ ensure your safety.
     -   Touching a tool or test probe to the wires or surfaces of different voltages at the same time.
         -   When a technician is using a metal tool inside a live electrical cabinet there is the risk of touching a hot wire or hot bus bar and a neutral bus bar or a bus bar of a different voltage phase at the same time.
         -   This creates a short circuit and sparks which startle the technician and causes him/her to pull back the tool.
-        -   As the technician pulls back, an arc of super heated plasma forms between the tool and the wires. This is the Arc Flash. The Arc Blast is the explosive pressure wave that follows.
+        -   As the technician pulls back, an arc of superheated plasma forms between the tool and the wires. This is the Arc Flash. The Arc Blast is the explosive pressure wave that follows.
         -   For this reason it is wise to avoid any maintenance of live electrical cabinets.
-        -   Sometimes troubleshooting and taking electrical measurments can only be done when the electrical cabinet is live.
+        -   Sometimes troubleshooting and taking electrical measurements can only be done when the electrical cabinet is live.
         -   If you must work in a live electrical cabinet then suit up in Arc Blast gear which is rated for the available amperage of a blast.
-    -   Dust, Corrosion, or lose wires are present in an electrical cabinet when throwing a switch
-        -   If dust, corrosion, or lose wires are present when moving the switch of an electrical disconnect then an arc may form causing an explosion in the electrical cabinet.
+    -   Dust, Corrosion, or loose wires are present in an electrical cabinet when throwing a switch
+        -   If dust, corrosion, or loose wires are present when moving the switch of an electrical disconnect then an arc may form causing an explosion in the electrical cabinet.
         -   When throwing the main disconnect in an electrical cabinet one should always:
             -   Suit up in Arc Blast gear which is rated for the available amperage of a blast
             -   Stand to the side of the cabinet door as you throw the switch so that you will not be directly in front of the explosion.
     -   Voltage transients (spikes), resulting from switching reactive loads or lightning strikes.
-            -   Spikes can happen at anytime. So always wear Arc Blast gear which is rated for the available amperage of a blast when working in a live electrical cabinet.
+            -   Spikes can happen at any time.
+            -   So always wear Arc Blast gear which is rated for the available amperage of a blast when working in a live electrical cabinet.
 
   
