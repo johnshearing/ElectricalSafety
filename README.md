@@ -226,6 +226,7 @@ ensure your safety.
         connected to the neutral side of a DC power supply or AC
         transformer. But since they are all connected together, they are
         thought of a single Common Wire.
+    -   Do not confuse the Common Ground with the Equipment Ground nor the Earth Ground discussed previously.
 
 -   Why should only fault current be allowed on an Equipment Ground but
     not working current?
@@ -282,9 +283,12 @@ ensure your safety.
         enough current would flow into the earth to trip the circuit
         breaker.
     -   As a result the metal chassis would remain hot at 120 volts.
-    -   If you were to touch the machine with one hand and touch another
+    -   The ground at the grounding rod would also be hot at 120 volts and a voltage gradiant would spread out from the grounding rod.
+    -   If you were to touch the hot machine with one hand and touch another
         Equipment Grounded machine with the other hand then current
         would pass through your heart and you would likely die.
+    -   If you have bare feet with one foot near the grounding rod and another foot further away from the grounding rod then your feet would be at different voltages and current would flow through your body and you could die.
+    -   If you were to touch the hot machine while standing on the ground with bare feet then electical current would pass through your heart as it travels from hand to foot and you would likely die.
 
 -   What would happen if you touched a 120 volt wire to a metal chassis
     which is Equipment Grounded?
