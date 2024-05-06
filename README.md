@@ -127,7 +127,7 @@ ensure your safety.
     -   This is not a good time to lean on the machine chassis.
     -   In fact wise electricians maintain their balance and never lean
         on machines.
-    -   And of course wise electricians always ware electrically
+    -   And of course wise electricians always wear electrically
         insulated gloves.
 
 -   How do you make an electrical circuit safe to touch?
@@ -286,7 +286,7 @@ ensure your safety.
         enough current would flow into the earth to trip the circuit
         breaker.
     -   As a result the metal chassis would remain hot at 120 volts.
-    -   The ground at the grounding rod would also be hot at 120 volts and a voltage gradiant would spread out from the grounding rod.
+    -   The ground at the grounding rod would also be hot at 120 volts and a voltage gradient would spread out from the grounding rod.
     -   If you were to touch the hot machine with one hand and touch another
         Equipment Grounded machine with the other hand then current
         would pass through your heart and you would likely die.
@@ -425,25 +425,25 @@ ensure your safety.
         -   If you must work in a live electrical cabinet then:
             -   Suit up in Arc Blast gear which is rated for the available amperage of a blast.
             -   Use electricians tools which are insulated as much as possible to prevent accidentally bringing metal the metal tool in contact with two surfaces of different voltages at the same time.
-            -   Set up boundries to keep your coworkers out of danger.
+            -   Set up boundaries to keep your coworkers out of danger.
     -   Dust, Corrosion, or loose wires are present in an electrical cabinet when throwing a switch or opening the cabinet door.
         -   If dust, corrosion, or loose wires are present when moving the switch of an electrical disconnect then an arc may form causing an explosion in the electrical cabinet.
         -   When throwing the main disconnect in an electrical cabinet one should always:
             -   Suit up in Arc Blast gear which is rated for the available amperage of a blast
             -   Stand to the side of the cabinet door as you throw the switch or open the door so that you will not be directly in front of the explosion.
-            -   Set up boundries to keep your coworkers out of danger.
+            -   Set up boundaries to keep your coworkers out of danger.
     -   Voltage transients (spikes), resulting from switching reactive loads or lightning strikes.
             -   Spikes can happen at any time.
             -   So always wear Arc Blast gear which is rated for the available amperage of a blast when working in a live electrical cabinet.
   
 -   What is Available Arc Fault Current?
     -   This is the resistance of the electrical cables or bus bars going back to the transformer multiplied by the voltage on the cables.
-    -   This value is used to determine the what type of blast gear the electrician should be wearing when throwing disconnect switches or when opening live electrical cabinets.
+    -   This value is used to determine what type of blast gear the electrician should be wearing when throwing disconnect switches or when opening live electrical cabinets.
  
--   What do short thick cables or the presents of bus bars tell us about Available Arc Fault Current?
+-   What do short thick cables or the presence of bus bars tell us about Available Arc Fault Current?
     -    Short cables have low resistance. Thick cables have low resistance. Bus bars have low resistance.
     -    Cables and bus bars which are both short and thick have even lower resistance.
     -    Let this be a warning: When you see thick electrical cables or bus bars of any size you should understand that there will be enough Available Arc Fault Current to create a massive Arc Blast
-    -    Take approriate precautions.
+    -    Take appropriate precautions.
  
   
