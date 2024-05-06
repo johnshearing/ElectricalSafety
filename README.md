@@ -402,9 +402,25 @@ ensure your safety.
 -   What are Arc Fault, Arc Flash, and Arc Blast?
     -   Arc Fault is an electric arc which forms between two hot wires of different phases or between a hot wire and a neutral wire.
     -   When an Arc Fault occurs, there’s a massive electrical explosion.
-    -   Both arc flash and arc blast are separate byproducts of that electrical explosion.
-    -   The arc flash is the light and heat from the explosion
+    -   Both Arc Flash and Arc Blast are separate byproducts of that electrical explosion.
+    -   The Arc Flash is the light and heat from the explosion
+        -   Arc flash can ignite the clothing and burn the skin of anyone within a few feet.
+        -   Arc Flash can also melt metal, cause lung and eyesight damage and even lead to hospitalization or death
     -   The arc blast is a pressure wave that follows.
+        -   These can be strong enough to throw a fully grown technician to the ground or cause additional equipment damage.
+        -   Arc blasts can cause damage to your hearing or brain functions.
+        -   The blast can also cause loose equipment, tools, machinery, debris, and molten metal to go flying which can cause further damage or injury.
     -   The destruction is devastating and often deadly.
             
-            
+- What causes Arc Fault?
+    -   Touching a tool or test probe to the wires or surfaces of different voltages at the same time.
+        -   When a technician is using a metal tool inside a live electrical cabinet there is the risk of touching a hot wire or hot bus bar and a neutral bus bar or a bus bar of a different voltage phase at the same time.
+        -   This creates a short circuit and sparks which startle the technician and causes him/her to pull back the tool.
+        -   As the technician pulls back, an arc of super heated plasma forms between the tool and the wires. This is the Arc Flash. The Arc Blast is the explosive pressure wave that follows.
+    -   Dust or Corrosion is present when throwing a switch
+    -   Voltage transients (spikes), resulting from switching reactive loads or lightning strikes.
+    -   Worn or loose connections,
+    -   Gaps in insulation,
+    -   Improperly installed parts,
+    -   Dust,
+    -   Corrosion     
