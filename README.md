@@ -1,10 +1,10 @@
-# Electrical Safety Talk For Factory Electricians and Controls Technicians
-#### How to Work Safely
-#### Keeping Your Coworkers Safe: 
+# Electrical Safety Talk For Factory Electricians and Controls Technicians  
+#### Topics Covered   
 -   Equipment Grounding For Electric Shock Protection
--   System or Earth Grounding To Protect Equipment From Electro Motive Pulses Associated With Nearby Lightning And Power Surges
--   Bonding For Fire Protection
+-   The Dangers Of Voltage Gradients on Land, In Salt Water, and In Fresh Water   
+-   System or Earth Grounding To Protect Equipment From Electromagnetic pulses Associated With Nearby Lightning And Power Surges
 -   Lightning Rods For Protection Against Direct Lightning Strikes
+-   Bonding For Fire Protection
 -   Understanding Causes of Arc Flash Explosions
 
 
@@ -22,8 +22,8 @@ help ensure your safety and the safety of everyone who depends on you.
 At your earliest convenience you need to watch the video at:  
 <https://youtu.be/mpgAVE4UwFw?si=8LH7m4NESoRNMt5p>
 
-The presenter is a legend in the industry and he is very funny. I hope
-you enjoy the video.
+The presenter is a legend in the industry and he is very funny.  
+I hope you enjoy the video.
 
 When watching the video it is understood that:
 
@@ -208,12 +208,12 @@ ensure your safety.
     Equipment Ground?
 
     -   An Earth Ground is a wire going from the neutral terminal of a
-        transformer to a rod which is driven into the ground. An
-        Equipment ground is a wire going from the metal chassis of a
-        machine to the neutral terminal of a transformer.
+        transformer to a rod which is driven into the ground.
     -   An Earth Ground protects motor and transformer windings from
-        Electromotive Pulses whereas an Equipment Ground protects people
-        from death by electric shock.
+        Electromagnetic Pulses
+    -   An Equipment ground is a wire going from the metal chassis of a
+        machine to the neutral terminal of a transformer.
+    -   An Equipment Ground protects people from electric shock by causing the circuit breaker to trip when a hot wire touches the chassis of a machine.
 
 -   What is a “Common Ground” or “Common Wire” and why is it used?
 
