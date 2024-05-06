@@ -159,8 +159,7 @@ ensure your safety.
         circuit breaker so that it will trip in the shortest amount of
         time.
 
--   **What is the**<span id="anchor"></span>** Effective Ground Fault
-    Current Path?**
+-   What is the Effective Ground Fault Current Path?
 
     -   This is the name given to the low resistance path back to the
         power source which is provided by the Ground Fault Conductor.
@@ -204,14 +203,12 @@ ensure your safety.
     -   Dissipating these voltage spikes protect the insulation around
         the wires in the transformer and motor windings.
 
--   What is the difference between a System/Earth Ground and an
-    Equipment Ground?
+-   What is the difference between an Earth Ground and an Equipment Ground?
 
-    -   An Earth Ground is a wire going from the neutral terminal of a
+    -   An Earth Ground, or System Ground, is a wire going from the neutral terminal of a
         transformer to a rod which is driven into the ground.
-    -   An Earth Ground protects motor and transformer windings from
-        Electromagnetic Pulses
-    -   An Equipment ground is a wire going from the metal chassis of a
+    -   An Earth Ground protects motor and transformer windings from electromagnetic pulses caused by nearby lightning
+    -   An Equipment Ground is a wire going from the metal chassis of a
         machine to the neutral terminal of a transformer.
     -   An Equipment Ground protects people from electric shock by causing the circuit breaker to trip when a hot wire touches the chassis of a machine.
 
