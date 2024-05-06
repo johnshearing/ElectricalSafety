@@ -417,10 +417,15 @@ ensure your safety.
         -   When a technician is using a metal tool inside a live electrical cabinet there is the risk of touching a hot wire or hot bus bar and a neutral bus bar or a bus bar of a different voltage phase at the same time.
         -   This creates a short circuit and sparks which startle the technician and causes him/her to pull back the tool.
         -   As the technician pulls back, an arc of super heated plasma forms between the tool and the wires. This is the Arc Flash. The Arc Blast is the explosive pressure wave that follows.
-    -   Dust or Corrosion is present when throwing a switch
+        -   For this reason it is wise to avoid any maintenance of live electrical cabinets.
+        -   Sometimes troubleshooting and taking electrical measurments can only be done when the electrical cabinet is live.
+        -   If you must work in a live electrical cabinet then suit up in Arc Blast gear which is rated for the available amperage of a blast.
+    -   Dust, Corrosion, or lose wires are present in an electrical cabinet when throwing a switch
+        -   If dust, corrosion, or lose wires are present when moving the switch of an electrical disconnect then an arc may form causing an explosion in the electrical cabinet.
+        -   When throwing the main disconnect in an electrical cabinet one should always:
+            -   Suit up in Arc Blast gear which is rated for the available amperage of a blast
+            -   Stand to the side of the cabinet door as you throw the switch so that you will not be directly in front of the explosion.
     -   Voltage transients (spikes), resulting from switching reactive loads or lightning strikes.
-    -   Worn or loose connections,
-    -   Gaps in insulation,
-    -   Improperly installed parts,
-    -   Dust,
-    -   Corrosion     
+            -   Spikes can happen at anytime. So always wear Arc Blast gear which is rated for the available amperage of a blast when working in a live electrical cabinet.
+
+  
