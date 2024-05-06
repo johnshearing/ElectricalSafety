@@ -1,4 +1,7 @@
-# Electrical Safety Talk For Factory Electricians and Controls Technicians  
+# Electrical Safety Talk For Factory Electricians and Controls Technicians   
+This was the conversation I had with all new electricians that I supervised regardless of their previous experience.
+
+
 #### Topics Covered   
 -   Equipment Grounding For Electric Shock Protection
 -   The Dangers Of Voltage Gradients on Land, In Salt Water, and In Fresh Water   
