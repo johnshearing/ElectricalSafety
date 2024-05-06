@@ -37,7 +37,7 @@ watch the video. Don’t read the answers, just read the questions. Most
 of the questions below are addressed in the video – some are not, but
 please give all of these questions some thought. Then we will discuss
 them together. This is not a test. I already know that you are very
-knowledgably and highly intelligent. This is just a discussion to help
+knowledgeable and highly intelligent. This is just a discussion to help
 ensure your safety.
 
 -   In the circuits you service, where are the electrons going? (Hint:
@@ -77,7 +77,7 @@ ensure your safety.
     -   Your body will now be at 480 volts but there is no path back to
         the power source for the electrons.
     -   With no path back to the power source, there is no electric
-        current is moving through your body.
+        current moving through your body.
     -   So no, you won’t feel any shock and you are not being
         electrocuted but you are in danger. Now is not the time to touch
         the chassis or anything else connected to the neutral terminal
@@ -225,7 +225,7 @@ ensure your safety.
     -   The “Common Wire” is really a branching tree of wires all
         connected to the neutral side of a DC power supply or AC
         transformer. But since they are all connected together, they are
-        thought of a single Common Wire.
+        thought of as single Common Wire.
     -   Do not confuse the Common Ground with the Equipment Ground nor the Earth Ground discussed previously.
 
 -   Why should only fault current be allowed on an Equipment Ground but
@@ -255,7 +255,7 @@ ensure your safety.
     -   Without the bonding these pulses would cause arcs which might
         pass through combustible materials to cause a fire.
     -   Machinery is not usually bonded to a building because the same
-        voltage spites in the building which create arcs can destroy
+        voltage spikes in the building which create arcs can destroy
         solid state electronic equipment.
 
 -   What would happen if you touched a 120 volt wire to a rod driven
@@ -267,7 +267,7 @@ ensure your safety.
     -   The dissipation with distance is not a linear function. Most of
         the voltage is dropped near the rod.
     -   So if you step near the rod with one bare foot and step away
-        from rod with the other bare foot then you have a 120 volt
+        from the rod with the other bare foot then you have a 120 volt
         potential between your feet which could kill you.
     -   Touching a 120 volt wire to a grounding rod would not likely
         draw enough current to trip a circuit breaker so the gradient in
