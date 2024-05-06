@@ -416,20 +416,34 @@ ensure your safety.
     -   The destruction is devastating and often deadly.
             
 - What causes Arc Fault?
-    -   Touching a tool or test probe to the wires or surfaces of different voltages at the same time.
+    -   Touching a tool or test probe to the electrical cables, bus bars, or surfaces of different voltages at the same time.
         -   When a technician is using a metal tool inside a live electrical cabinet there is the risk of touching a hot wire or hot bus bar and a neutral bus bar or a bus bar of a different voltage phase at the same time.
         -   This creates a short circuit and sparks which startle the technician and causes him/her to pull back the tool.
         -   As the technician pulls back, an arc of superheated plasma forms between the tool and the wires. This is the Arc Flash. The Arc Blast is the explosive pressure wave that follows.
         -   For this reason it is wise to avoid any maintenance of live electrical cabinets.
         -   Sometimes troubleshooting and taking electrical measurements can only be done when the electrical cabinet is live.
-        -   If you must work in a live electrical cabinet then suit up in Arc Blast gear which is rated for the available amperage of a blast.
-    -   Dust, Corrosion, or loose wires are present in an electrical cabinet when throwing a switch
+        -   If you must work in a live electrical cabinet then:
+            -   Suit up in Arc Blast gear which is rated for the available amperage of a blast.
+            -   Use electricians tools which are insulated as much as possible to prevent accidentally bringing metal the metal tool in contact with two surfaces of different voltages at the same time.
+            -   Set up boundries to keep your coworkers out of danger.
+    -   Dust, Corrosion, or loose wires are present in an electrical cabinet when throwing a switch or opening the cabinet door.
         -   If dust, corrosion, or loose wires are present when moving the switch of an electrical disconnect then an arc may form causing an explosion in the electrical cabinet.
         -   When throwing the main disconnect in an electrical cabinet one should always:
             -   Suit up in Arc Blast gear which is rated for the available amperage of a blast
-            -   Stand to the side of the cabinet door as you throw the switch so that you will not be directly in front of the explosion.
+            -   Stand to the side of the cabinet door as you throw the switch or open the door so that you will not be directly in front of the explosion.
+            -   Set up boundries to keep your coworkers out of danger.
     -   Voltage transients (spikes), resulting from switching reactive loads or lightning strikes.
             -   Spikes can happen at any time.
             -   So always wear Arc Blast gear which is rated for the available amperage of a blast when working in a live electrical cabinet.
-
+  
+-   What is Available Arc Fault Current?
+    -   This is the resistance of the electrical cables or bus bars going back to the transformer multiplied by the voltage on the cables.
+    -   This value is used to determine the what type of blast gear the electrician should be wearing when throwing disconnect switches or when opening live electrical cabinets.
+ 
+-   What do short thick cables or the presents of bus bars tell us about Available Arc Fault Current?
+    -    Short cables have low resistance. Thick cables have low resistance. Bus bars have low resistance.
+    -    Cables and bus bars which are both short and thick have even lower resistance.
+    -    Let this be a warning: When you see thick electrical cables or bus bars of any size you should understand that there will be enough Available Arc Fault Current to create a massive Arc Blast
+    -    Take approriate precautions.
+ 
   
