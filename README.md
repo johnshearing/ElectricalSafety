@@ -348,7 +348,7 @@ ensure your safety.
     -   This creates high voltage spikes within the windings that break
         down the insulation of the wires that make up the windings.
     -   Eventually you get short circuits within the windings and that
-        make the motors and transformers useless.
+        makes the motors and transformers useless.
     -   Providing a System or Earth Ground allows the voltage spikes to
         dissipate into the earth without harming the windings.
 
