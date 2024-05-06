@@ -321,7 +321,7 @@ ensure your safety.
     the event that a hot wire touches the metal chassis? If not, then
     why not?
 
-    -    No it does not. Earth grounding only protects the insulation of
+    -   No it does not. Earth grounding only protects the insulation of
         motor and transformer windings from high voltage spikes caused
         by electromotive pulses from nearby lightning strikes.
     -   The earth does not draw enough current through the rod to trip
@@ -380,3 +380,31 @@ ensure your safety.
         strike whereas a System/Earth Ground protects motor and
         transformer windings from radio wave pulses which are generated
         by nearby lightning.
+
+-   What would happen if you accidentally connected the hot 120 volt lead from shore power to the common bus bar in a fiberglass boat and connected the common wire from shore power to the 120 volt bus bar in the boat?
+    -   There is great danger but which is not immediately obvious.
+    -   Since the common bus bar in the boat is connected to the boat's equipment ground, and since all metal parts of the boat also bonded to the equipment ground, then all the metal parts of the boat would be come hot at 120 volts.
+    -   But since all the metal parts are at the same 120 volts and since the fiberglass hull does not conduct electricity there is no where for current to flow
+    -   So someone standing in the boat could touch the metal items and also become hot at 120 volts but would not suffer a shock because no current can flow when everything is at the same 120 volts.
+    -   The boat would appear to work fine because AC equipment run when the hot and common leads are reversed.
+    -   **However, there is great danger**
+        -   Voltage Gradients In the Water
+            -   Since all metal parts are bonded to the equipment ground and since the equipment ground is connected to the common bus bar, the propeller shaft and other metal parts are hot at 120 volts.
+            -   This makes the water close to the propeller hot at 120 volts and creates a voltage gradient in the water as you get further away from the boat.
+            -   Anyone swimming near the boat will become paralized by voltage gradient and drown.
+            -   The effect of voltage gradients are much much worse in fresh water then in salt water because fresh water is much less conductive to electricity.
+        -   Touching Something Metal On The Boat While Touching Something Metal On Shore
+            -   If a person on the boat is touching a metal handrail with one hand which is bonded to the hot equipment ground on the boat and then touches something metal on shore which has a proper equipment
+                ground fault path back to the neutral terminal of the transformer then current would flow through the heart and the person would likely die.
+        -    Electrolisis will put a hole in the boat and sink it.
+             -   Since metal parts in the water are hot at 120 volts, electrolisis is highly accelerated and metal parts will corrode in only a few days. This will cause holes to open up below the water line and the boat will sink.
+         
+-   What are Arc Fault, Arc Flash, and Arc Blast?
+    -   Arc Fault is an electric arc which forms between two hot wires of different phases or between a hot wire and a neutral wire.
+    -   When an Arc Fault occurs, there’s a massive electrical explosion.
+    -   Both arc flash and arc blast are separate byproducts of that electrical explosion.
+    -   The arc flash is the light and heat from the explosion
+    -   The arc blast is a pressure wave that follows.
+    -   The destruction is devastating and often deadly.
+            
+            
