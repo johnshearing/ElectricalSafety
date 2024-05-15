@@ -1,3 +1,5 @@
+<a href="https://johnshearing.github.io/">Main list of projects</a>  
+
 # Electrical Safety Talk For Factory Electricians and Control Technicians   
 This was the conversation I had with all new electricians that I supervised regardless of their previous experience.
 
