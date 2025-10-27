@@ -426,7 +426,7 @@ ensure your safety.
         -   Sometimes troubleshooting and taking electrical measurements can only be done when the electrical cabinet is live.
         -   If you must work in a live electrical cabinet then:
             -   Suit up in Arc Blast gear which is rated for the available amperage of a blast.
-            -   Use electricians tools which are insulated as much as possible to prevent accidentally bringing metal the metal tool in contact with two surfaces of different voltages at the same time.
+            -   Use electricians tools which are insulated as much as possible to prevent accidentally bringing the metal tool in contact with two surfaces of different voltages at the same time.
             -   Set up boundaries to keep your coworkers out of danger.
     -   Dust, Corrosion, or loose wires are present in an electrical cabinet when throwing a switch or opening the cabinet door.
         -   If dust, corrosion, or loose wires are present when moving the switch of an electrical disconnect then an arc may form causing an explosion in the electrical cabinet.
