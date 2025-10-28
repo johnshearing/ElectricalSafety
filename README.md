@@ -439,12 +439,12 @@ ensure your safety.
             -   So always wear Arc Blast gear which is rated for the available amperage of a blast when working in a live electrical cabinet.
   
 -   What is Available Arc Fault Current?
-    -   This is the resistance of the electrical cables or bus bars going back to the transformer multiplied by the voltage on the cables.
-    -   This value is used to determine what type of blast gear the electrician should be wearing when throwing disconnect switches or when opening live electrical cabinets.
+    -   The Available Arc Fault Current = system voltage divided by (source impedance + transformer impedance + conductor impedance + the impedance of the arc).
+    -   This value is used in a calculation with other variables to determine what type of blast gear the electrician should be wearing when throwing disconnect switches or when opening live electrical cabinets.
  
 -   What do short thick cables or the presence of bus bars tell us about Available Arc Fault Current?
-    -    Short cables have low resistance. Thick cables have low resistance. Bus bars have low resistance.
-    -    Cables and bus bars which are both short and thick have even lower resistance.
+    -    Short cables have low impedance. Thick cables have low impedance. Bus bars have low impedance.
+    -    Cables and bus bars which are both short and thick have even lower impedance.
     -    Let this be a warning: When you see thick electrical cables or bus bars of any size you should understand that there will be enough Available Arc Fault Current to create a massive Arc Blast
     -    Take appropriate precautions.
  
