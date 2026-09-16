@@ -234,6 +234,7 @@ ensure your safety.
     -   Do not confuse the Common Ground with the Equipment Ground nor the Earth Ground discussed previously.
 
 -   Is a Common Wire safe to touch?
+    -   The Danger of Putting Your Body In Series With Neutral Current:
     -   Imagine a 120-volt circuit has an active 100-watt light bulb as the load, but the neutral wire is cut.
     -   Now imagine you grab both ends of the cut wire (one in each hand) in an attempt to twist them back together?
     -   You are thinking "The wire is neutral. What's the danger?" And that was your last thought because now you are dead.
@@ -244,11 +245,27 @@ ensure your safety.
     -   This forces roughly 0.1 amps of current straight through your heart, which is the exact threshold that triggers lethal ventricular fibrillation.
     -   Wise electricians know that an unlit bulb does not mean a circuit is safe, and they know that neutral wire is only safe when the circuit is completely de-energized.
     -   
-    -   Now consider the following:  
+    -   Now consider the possibility of Miswiring: 
     -   Sometimes electricians make mistakes and accidentally connect a white common wire to a hot terminal and the matching black hot wire to the neutral terminal.
     -   In that case everything in an AC circuit will work as expected because light bulbs and motors work regardless of which terminal is hot or neutral.
     -   But the electrician that touches one of these incorrectly connected white wires will get a nasty shock.
     -   And if the current passes through the heart then death will likely result.
+    -   
+    -   Now consider the dangers of a Shared Neutral:
+    -   What would happen if you turn off the circuit breaker for the 120-volt lighting circuit you are working on, verify the hot wire is dead, but then cut into the shared neutral wire that is also being used by a completely different, active circuit?
+    -   In this case, turning off your breaker safely killed the hot wire, but it did nothing to stop the return current flowing back from the other active circuit through that shared neutral.
+    -   The moment you cut the neutral, you break its path to the panel, causing the wire coming from the active load to instantly jump up to full line voltage.
+    -   If you grab both ends of that cut neutral, the active current from the neighboring circuit will route directly through your body to get back to the panel.
+    -   Wise electricians know that multi-wire branch circuits share neutrals, meaning a neutral wire can still be carrying live return current even if the breaker for your specific workspace is off.
+    -   And of course, wise electricians always trace the circuit, group shared neutrals together in the panel, and lock out all linked breakers before opening any neutral connection.
+    -   
+    -   Now consider the possibility of Inductive Coupling and Phantom Voltage:
+    -   What would happen if you turn off, lock out, and tag out a 480-volt circuit to replace a motor, verify the wires are dead with your meter, but then touch the bare conductors while they are running inside a long conduit right next to other high-voltage lines?
+    -   In this case, the wires you are touching are physically disconnected from the power supply, but the alternating magnetic fields from the adjacent live wires are constantly cutting across your dead wires.
+    -   This invisible magnetic interaction acts like a transformer, generating a phantom voltage—known as an induced or "ghost" voltage—directly onto the unenergized conductors you are holding.
+    -   While inductive coupling often lacks the high current capacity of a direct short, it can easily trap enough capacitive and inductive energy to deliver a painful, debilitating shock that causes you to fall or reflexively jerk into moving machinery.
+    -   Wise electricians know that running de-energized wires in parallel with heavily loaded AC lines over long distances will always induce a measurable, dangerous voltage on the dead lines.
+    -   And of course, wise electricians always use a specialized low-impedance voltage tester (LoZ meter) to discharge ghost voltages and temporarily bond the dead conductors to the local safety ground before handling them.
  
 -   Why should only fault current be allowed on an Equipment Ground but
     not working current?
