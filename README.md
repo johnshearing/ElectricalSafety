@@ -233,6 +233,23 @@ ensure your safety.
         thought of as single Common Wire.
     -   Do not confuse the Common Ground with the Equipment Ground nor the Earth Ground discussed previously.
 
+-   Is a Common Wire safe to touch?
+    -   Imagine a 120-volt circuit has an active 100-watt light bulb as the load, but the neutral wire is cut.
+    -   Now imagine you grab both ends of the cut wire (one in each hand) in an attempt to twist them back together?
+    -   You are thinking "The wire is neutral. What's the danger?" And that was your last thought because now you are dead.
+    -   So what happened?
+    -   In this case, the unlit bulb gives the illusion that the circuit is dead.
+    -   But your body actually makes this a live circuit again with your body in series with the light bulb.
+    -   Because your body's resistance (about 1000 ohms) is so much higher than the cold light bulb filament (about 12 ohms), almost the entire 120 volts drops across your chest instead of the light bulb.
+    -   This forces roughly 0.1 amps of current straight through your heart, which is the exact threshold that triggers lethal ventricular fibrillation.
+    -   Wise electricians know that an unlit bulb does not mean a circuit is safe, and they know that neutral wire is only safe when the circuit is completely de-energized.
+    -   
+    -   Now consider the following:  
+    -   Sometimes electricians make mistakes and accidentally connect a white common wire to a hot terminal and the matching black hot wire to the neutral terminal.
+    -   In that case everything in an AC circuit will work as expected because light bulbs and motors work regardless of which terminal is hot or neutral.
+    -   But the electrician that touches one of these incorrectly connected white wires will get a nasty shock.
+    -   And if the current passes through the heart then death will likely result.
+ 
 -   Why should only fault current be allowed on an Equipment Ground but
     not working current?
 
