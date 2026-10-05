@@ -61,10 +61,10 @@ ensure your safety.
     electric shock?
 
     -   It’s the heart. Even a tiny amount of electric current through
-        the heart will cause defibrillation and almost certain death.
+        the heart will cause fibrillation and almost certain death.
 
--   When testing live circuits, why do electricians work with one hand
-    behind their back?
+-   When testing live circuits, why do electricians sometimes work with
+    one hand behind their back?
 
     -   This prevents electric current from passing through the heart by
         way of the hands.
@@ -74,6 +74,25 @@ ensure your safety.
         chassis.
     -   This is why electrically insulated gloves must be worn when
         working around live power.
+
+-   Before trusting that a circuit is dead, electricians will perform the **Live Dead Live test** using their multimeters.  
+    Please explain the Live Dead Live test procedure and explain why it is necessary.  
+
+    -   First the meter is tested on a known live voltage such as a wall outlet.  
+        -   This ensures the meter is working properly and is on the correct setting.   
+        -   Very often the meter will be on the wrong setting such as DC when you are trying to measure AC.  
+            In that case the meter would read zero on a live AC circuit.  
+            And if you accidentally press the **Hold** button when the meter is reading zero then it will continue to read zero no matter what voltage is on the probes.  
+            Also, the meter lead wires could be broken with no visible signs that something is wrong.  
+            So we test the meter every time on a live circuit.  
+    -   Now that we have proved the meter is working and is on the correct settings we can check that the circuit we are about to touch is truly dead.  
+    -   Finally we test the meter on the live circuit again to make sure that the meter is still working and that no settings were changed while we were testing the work.  
+ 
+-   Why do electricians wait for a specified length of time before touching de-energized and locked out electrical equipment such as variable frequency drives?
+
+    -   Because equipment that uses capacitors will hold a charge for length of time after the power has been removed.
+    -   Check the service manuals to find out how long to wait before beginning service opereations.
+    -   And always test the circuit with a meter to be sure the circuit is dead.    
 
 -   If you are holding a 480 volt copper wire in your bare hand while
     wearing electrically insulated boots and not touching anything else,
